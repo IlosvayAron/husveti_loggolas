@@ -1,0 +1,10 @@
+[1;31m23:40:22.633 [main] [1. iteracio] FATAL logger.Main - Nesze hát a rózsavíz,
+[m[1;31m23:40:22.635 [main] [1. iteracio] ERROR logger.Main - Gyöngyöm, gyöngyvirágom.
+[m[32m23:40:22.636 [main] [1. iteracio] INFO  logger.Main - Tarisznyámba várom.
+[m[1;31m23:40:25.638 [main] [2. iteracio] FATAL logger.Main - Nesze hát a rózsavíz,
+[m[1;31m23:40:25.640 [main] [2. iteracio] ERROR logger.Main - Gyöngyöm, gyöngyvirágom.
+[m[32m23:40:25.641 [main] [2. iteracio] INFO  logger.Main - Tarisznyámba várom.
+[m[1;31m23:40:28.643 [main] [3. iteracio] FATAL logger.Main - Nesze hát a rózsavíz,
+[m[1;31m23:40:28.644 [main] [3. iteracio] ERROR logger.Main - Gyöngyöm, gyöngyvirágom.
+[m[32m23:40:28.646 [main] [3. iteracio] INFO  logger.Main - Tarisznyámba várom.
+[m
